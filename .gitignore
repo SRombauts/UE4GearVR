@@ -12,3 +12,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *_BuiltData.uasset
+Build/*/FileOpenOrder
+Build/Android/src
