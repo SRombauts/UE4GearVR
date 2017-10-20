@@ -1,0 +1,1 @@
+../../../UE4GearVR/UE4GearVR.uproject GearVR -NoSound
